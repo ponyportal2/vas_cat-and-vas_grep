@@ -2,7 +2,7 @@
 
 Here are the alternatives I wrote from scratch to the original system utilities cat and grep.
 
-The code in this project demonstrates my programming skills at the beginning of my journey in the C language :) , so the code may be a bit brute-force. However, the functionality works as intended and has passed an auto-check at School 21 (School 42 alternative).
+The code in this project demonstrates my programming skills at the beginning of my journey in the C language :) , so the code may be a bit brute-force. However, the functionality works as intended and has passed an auto-check at Sber's School of Programming 21 (School 42 alternative), auto-check also included valgrind test, and no leaks were discovered.
 
 To test and run:
 
@@ -22,7 +22,7 @@ To test with custom tests that check the output equality with the original syste
 
 Здесь написанные мной с нуля альтернативы оригинальным системным утилитам cat и grep.
 
-Код в этом проекте показывает мои навыки программирования на начале пути в языке С :) , поэтому здесь кошмарный брутфорсный код. Однако функционал работает как надо и прошёл авто-проверку в Школе 21.
+Код в этом проекте показывает мои навыки программирования на начале пути в языке С :) , поэтому здесь кошмарный брутфорсный код. Однако функционал работает как надо и прошёл авто-проверку в Школе Программирования 21 от Сбера, авто-проверка включала в себя тест на valgrind и ликов не было обнаружено.
 
 Для тестирования и запуска:
 
