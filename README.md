@@ -17,7 +17,7 @@ or
 ```
 The library has been tested and works on Linux, Mac, and WSL.
 
-To test with custom tests that check the output equality with the original system functions, run "make test".
+Tests were also written by me, and support quiet mode and changing parameters for custom testing. To test with custom tests that check the output equality with the original system functions, run "make test".
 
 -----------------------------------------
 
@@ -37,5 +37,5 @@ To test with custom tests that check the output equality with the original syste
 ```
 Библиотека протестирована и работает на Linux, Mac и WSL.
 
-Для тестирования самописными тестами которые проверяют идентичность вывода с оригинальными функциями в системе вводим make test.
+Также мной были написаны тесты, они поддерживают тихий режим, а также изменение параметров для настраиваемого тестирования. Для тестирования самописными тестами которые проверяют идентичность вывода с оригинальными функциями в системе вводим make test.
 
